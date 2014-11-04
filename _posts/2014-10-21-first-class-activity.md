@@ -10,7 +10,7 @@ title: Mapping Activity
 
 In our first class activity, the class was seperated into 3 teams and given markers, tape, scissors, papers and pad
 
-![]({{ site.url }}/blog-template/images/IMG_4904.JPG)
+![]({{ site.url }}/blog-template/images/IMG_1103.JPG)
 ![]({{ site.url }}/blog-template/images/IMG_4906.JPG)
 ![]({{ site.url }}/blog-template/images/IMG_4913.JPG)
 ![]({{ site.url }}/blog-template/images/IMG_4914.JPG)
