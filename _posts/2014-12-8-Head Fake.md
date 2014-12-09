@@ -15,7 +15,7 @@ PetProject - Video Capture of Aspen, my pesky dog, getting in the trash!
 
 
 
-<a href="{{ site.url }}/blog/images/Head Fake.mp4">
+<a href="{{ site.url }}/blog/images/Head Fake">
 
 
 
