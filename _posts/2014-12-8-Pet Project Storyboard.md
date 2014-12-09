@@ -10,7 +10,8 @@ title: StoryBoard - Pet Project - Prototype Story
 
 PetProject - Designing the Prototype
 
-
+<br>
+![]({{ site.url }}/blog/images/Pet Project Storyboard.jpg)
 
 
 <a href="{{ site.url }}/blog/images/Pet Project Storyboard.jpg">
