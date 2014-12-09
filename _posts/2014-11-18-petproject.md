@@ -14,4 +14,4 @@ PetProject - Designing an Autonomous Trainer for Pets?
 <br>
 ![]({{ site.url }}/blog/pdfs/PetProject.pdf)
 
-
+<a href="{{ site.url }}/blog/pdfs/PetProject.pdf">
