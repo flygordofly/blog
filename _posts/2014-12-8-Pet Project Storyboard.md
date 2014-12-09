@@ -13,4 +13,4 @@ PetProject - Designing the Prototype
 
 
 
-<a href="{{ site.url }}/blog/pdfs/Pet Project Storyboard.jpg">
+<a href="{{ site.url }}/blog/images/Pet Project Storyboard.jpg">
