@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pet Project Final Cut
+title: Pet Project 3
 ---
 
 {{ page.title }}
@@ -8,7 +8,7 @@ title: Pet Project Final Cut
 
 <p class="meta">
 
-PetProject - And I'm Spent (for now)
+PetProject - Final Cut - And I'm Spent
 
 
 
