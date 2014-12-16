@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pet Project 3
+title: Pet Project 3 - Final Cut
 ---
 
 {{ page.title }}
@@ -14,3 +14,5 @@ PetProject - Final Cut - And I'm Spent
 
 
 <a href="{{ site.url }}/blog/pdfs/PetProject 3.pdf">
+
+
